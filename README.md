@@ -1,4 +1,4 @@
-## This repository contains the finite element simulation routines for generating the deflected shapes of plate using planar elements, using Mindlin plate elements and Kirchoff plate elements. This project was carried out as a course project at UCLA for CEE 232 Theory of Plates and Shells Course in Fall'23
+## This repository contains the finite element simulation routines for generating the deflected shapes of plate using planar elements and using Mindlin plate elements and Kirchoff plate elements. This project was carried out as a course project at UCLA for CEE 232 Theory of Plates and Shells Course in Fall'23
 
 ## Instructions to run the codes
 
