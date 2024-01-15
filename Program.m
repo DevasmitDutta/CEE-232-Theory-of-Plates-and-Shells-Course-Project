@@ -43,7 +43,7 @@ D = E*t^3/(12*(1 - v^2));
 q0 = 30e3;
 
 %Boundary conditions (0-free; 1-simple support; 2-fixed)
-Edges = [0 2 2 1]; %[0 2 2 1] for (free; fixed; fixed; simply-supported)
+Edges = [1 1 1 1]; %[0 2 2 1] for (free; fixed; fixed; simply-supported)
 %
 %      y-axis
 %      ^
